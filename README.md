@@ -1,6 +1,6 @@
 # Prediksi Jenis Tanaman Berdasarkan Tanah & Iklim
 
-Proyek machine learning untuk memprediksi jenis tanaman yang optimal berdasarkan karakteristik tanah dan iklim, seperti kandungan nitrogen, fosfor, kalium, suhu, pH tanah, dan curah hujan. Dataset digunakan dari India dan relevan dengan konteks agroekologis Indonesia.
+Proyek machine learning untuk memprediksi jenis tanaman yang optimal berdasarkan karakteristik tanah dan iklim, seperti kandungan nitrogen, fosfor, kalium, suhu, pH tanah, dan curah hujan.
 
 ---
 
